@@ -2,7 +2,7 @@
 
 ## 作業の始め方
 
-- コマンドラインで任意の場所に移動し、git clone https://github.com/enpitut2021/honaban-test-zubora.git を叩く。
+- Xcodeで https://github.com/enpitut2021/honaban-test-zubora.git をclone。
 - Xcodeでレポジトリの名前と同じディレクトリを開く
 - mainブランチとなっているのであれば、developブランチに移動
 - developブランチから個人のブランチに切る（命名は例として：takahashi-iss01）
